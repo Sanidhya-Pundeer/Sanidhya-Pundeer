@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello there,<br><br>🔭I'm Sanidhya Singh Pundeer, a third-year Computer Science Engineering student with a focus on Full Stack Development.<br><br>💬My expertise includes Java, Spring MVC, and MERN Stack.<br><br>🌱Currently I am learning Dart and website design on Figma.<br><br>🤝Feel free to connect me on LinkedIn via the link below or email at: pundeer.sanidhya@gmail.com
+Hello there,<br><br>🔭I'm Sanidhya Singh Pundeer, a third-year Computer Science Engineering student with a focus on Full Stack Development.<br><br>💬My expertise includes Java, Spring MVC, and MERN Stack.<br><br>🌱Currently I am learning Flutter and Mobile Appplication Development.<br><br>🤝Feel free to connect me on LinkedIn via the link below or email at: pundeer.sanidhya@gmail.com
 
 # 🌐 Socials:
 
